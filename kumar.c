@@ -8,10 +8,10 @@ scanf("%d",&a);
 if(a<=0)
 {
 if(a==0)
-printf("/nyou have entered 0");
+printf("you have entered 0");
 else
-printf("/nyou have enterd negative number");
+printf("you have enterd negative number");
 }
 else
-printf("/nyou have entered positive number");
+printf("you have entered positive number");
 }
